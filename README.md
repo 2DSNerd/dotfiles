@@ -1,16 +1,18 @@
 # 2D's I3-WM Setup
+<br>
+
 ## Bildschirmfoto
 ### PolyBar
 
 <br>
 <br>
 
-### Discord/Spotify
+### Zwietracht/Spotify
 
 <br>
 <br>
 
-### Alacrity
+### Alacritty
 
 <br>
 <br>

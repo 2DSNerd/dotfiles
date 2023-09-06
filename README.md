@@ -1,4 +1,4 @@
-# 2D's I3-WM Setup
+# 2DSNerd's Dotfiles
 <br>
 
 ## Bildschirmfoto

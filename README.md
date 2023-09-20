@@ -2,27 +2,20 @@
 <br>
 
 ## Bildschirmfoto
-### PolyBar
-
+### Discord Mit BetterDiscord
+<img src="https://lh3.googleusercontent.com/pw/AIL4fc-2tPwWwWVxZPscdSYXAoTN-FxLTZc5k_9wftD3Lxe2JaUVJdKORCgd8aicP3v5vwJsaNniqbL3-G1w-eqMLMrB8uQ5iQ83tMSKwRnhj7xe32N8xjTGPU6lykpwQWeL7zjD264JyYNRkChlF1tjaUfwS-8M_-b4qQjbpli9BjpUAQaS4LPHQT9R5yjx04deCM0X_r1vIrdgDCxkJcooqnbGI3BEYxw0-0XiqkNwmoj3ft8c3KOru5Sge0eUaB_5DKGFYjI2J9PAIiERYB3b7ie6b6OxIqATT6n3kRIhOYfFA3_KO3J_wKZsWvGL80XsioRUj6gwBmdYgnOiuUK3UYvAz7z39obXBpVB2RyGO8xVhIH8dmMfg4HSZaO9ivHPEI_YX23KE9I-nh5FRF8qun7gaeynP2a-mLOKK3L_8RgAc9JxkeLgvHUudlRfVZAppkHedGaGsWvqdxOZtU7xlHMapHF0hW8aMYFApg6guQwpnAsIBXjeMkU8BqLutR7y3CBpYAAC3sDg91o1mKG2uci6sdfg92zEBp_-nBlzJu46umLetshGSUUSuv7NO5fF7c2YxksXVQQRtMOce_XTA2P_L5srCKBqaRMfejmxonDlj9sDIQ1Xm5WUsvdw5PaEk371xR3zYqPedygOVc0THW1hPooJ4VC5ww4_PcjZiM49lA3nYII9uJse41-MoLAvNBmVRAudORKdVgtfxoqoLG72EVbL78V1PmH7izGA9z9UVhXlt5owOlxmL3T_UzcFa_rE04p5vlin2-L0usVnAOzCa7mWfApMILzObYQqaOB36uRz2t29KK9HOMwo6Ax4b8Qk72zY8dfOR6hrEjQSRKBLXfqbDY_xb0Q0we5xtLQks_W0TzpZQ7UcCpsMrji6kDMDK9hJag5rLkTjujWqUQ=w1092-h612-s-no?authuser=0" alt="Discord">
 <br>
 <br>
 
-### Zwietracht/Spotify
-
-<br>
-<br>
-
-### Alacritty
-
+### Das Desktop
+<img src="https://lh3.googleusercontent.com/pw/AIL4fc_rcQFKm424UlO3jLHZ64xTTf7mF85tyU4RbYx-C_GqPe9Ut6azA05oeSoSuMeGvDS-PWD-3pqX2XRQLKRBicyayimL68wzp3_epbCtNIAs0IpNKlkBRGuqOi2hNd2YmnLIphbmJrkG5JDUmoO3i7Qzq5jJ-uYaNqWP42Ws9sVVanIzWriVVl4N3xsG3mREPg01ygDE7kJm6no8TAwXs79gO-hlLh3868fiIWn9xehi5BrBs0yhPJnIgREouiVz8I2Yzw_0tS7kCbOmGCNK90VotA7OPUhSU_-CnObeTJOfXlrrfY3K5h0qM6FStQdwBxczUlUrehD9ngzEIjUrx51VD2ATkF7NjTfH8Fjb0XKVYJMmiRIDqGIoR4YKCIrpaC5dmALX3jPSueuwdDGn09hK_JRqUdyFxxEyWPxPAUbHbFmys0jI49ffyy6RUnKj9nNLWXsh0nIO9mPLZm6x0bmVPhPdtr7FXFMSbre4xZVrAe0QmkPNl60pqTVrjk8EQwB09DCFX93X_WgHl56HcpBJ0YWl68JGYgOT4p304MLPMFGZFgGs28vSzNYQWIzjFuXCAzPS6dK5Sne5kmUc_jTBokXrGojNVIGCe8a8f0pLFIJElgwaihcySeV8I-LunqaI7OsAQ8IQ5PQ0hWdJlpleMJC1MFHPtBB5vO0R-M15NLjAnHl_a31o2JwPbs_P2USQG3ubCkr1U5aNJ_mNm6H_1-Auj4iyhqteuIAH09OyRhIhSdZpzxQTFXXQSRtQHMkUMydKom3SMpuqhx8cnhlgSCscFXmU_ezRXPa9FxFUb6dlOeS0P-aCP7PWBJ0SNphB8cROGoUCvY5WCt3nMyaX5_ubJZ7Zt_oLhcOlCvl52mGd4vTNInQAKwHaqcMD8GKLgAcrthiMvK0nSUyX2w=w976-h612-s-no?authuser=0" alt="Desktop">
 <br>
 <br>
 
 ## Required Apps
-#### - Picom
+#### - Discord From .Deb Or From Pacman
 #### - Yay
-#### - Xclip
-#### - Polybar
-#### - Maim
+#### - BetterDiscord Appimage
+#### - g4music
 #### - Alacritty
-#### - Flameshot
-#### - Fah
+
